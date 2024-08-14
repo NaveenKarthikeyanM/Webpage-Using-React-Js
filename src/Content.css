@@ -1,0 +1,35 @@
+.content{
+    max-width: 800px;
+    margin: 10px auto;
+}
+table,tr,th,td{
+    border-collapse: collapse;
+    border: 2px solid;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+.form1{
+    max-width: 400px;
+    margin: 10px auto;
+    background-color: rgb(124, 126, 123);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 5%;
+}
+input{
+    width: 50%;
+}
+#email{
+    margin-left: 35px;
+}
+#password{
+    margin-left: 5px;
+}
+label{
+    padding-bottom: 20px;
+}

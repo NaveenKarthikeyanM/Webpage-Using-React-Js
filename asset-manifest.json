@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NaveenKarthikeyanM/Webpage-Using-React-Js/static/css/main.1a2baf04.css",
+    "main.js": "/NaveenKarthikeyanM/Webpage-Using-React-Js/static/js/main.c686d7f8.js",
+    "index.html": "/NaveenKarthikeyanM/Webpage-Using-React-Js/index.html",
+    "main.1a2baf04.css.map": "/NaveenKarthikeyanM/Webpage-Using-React-Js/static/css/main.1a2baf04.css.map",
+    "main.c686d7f8.js.map": "/NaveenKarthikeyanM/Webpage-Using-React-Js/static/js/main.c686d7f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a2baf04.css",
+    "static/js/main.c686d7f8.js"
+  ]
+}
